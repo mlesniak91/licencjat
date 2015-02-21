@@ -23,3 +23,4 @@ TODO
 ### Bazy danych
 
 * [MongoDB University](https://university.mongodb.com)
+* [Elasticsearch](http://git-scm.com/book/en/v2)
