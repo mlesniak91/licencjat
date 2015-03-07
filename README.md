@@ -30,7 +30,7 @@ Ostateczny termin oddania pracy:
 1. Leśniak, Michał
 1. Lipińska, Kamila
 1. Lipiński, Michał
-1. Masztarowski, Sebastian
+1. Masztarowski, Sebastian - [Node.js - Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch, Przemysław
 1. Sielachowicz, Paweł
 1. Szpaderski, Marcin
