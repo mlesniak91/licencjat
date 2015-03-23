@@ -27,7 +27,7 @@ Ostateczny termin oddania pracy:
 1. Cymiński, Tymoteusz
 1. Jaworowski, Michał
 1. Korszuń, Kacper
-1. Leśniak, Michał
+1. Leśniak, Michał - [Aplikacje webowe w oparciu o framework Lotus](https://github.com/mlesniak91/praca_licencjacka)
 1. Lipińska, Kamila
 1. Lipiński, Michał
 1. Masztarowski, Sebastian - [Node.js - Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
