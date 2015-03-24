@@ -26,7 +26,7 @@ Ostateczny termin oddania pracy:
 1. Bigda, Piotr
 1. Cymiński, Tymoteusz
 1. Jaworowski, Michał
-1. Korszuń, Kacper
+1. Korszuń, Kacper - [ Dynamiczne tworzenie 'kalkulatorów' w aplikacji webowej opartej na Node.js i MongoDB](https://bitbucket.org/kacperkorszun/praca-licencjat)
 1. Leśniak, Michał - [Aplikacje webowe w oparciu o framework Lotus](https://github.com/mlesniak91/praca_licencjacka)
 1. Lipińska, Kamila
 1. Lipiński, Michał
