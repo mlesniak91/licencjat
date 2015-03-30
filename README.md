@@ -28,13 +28,13 @@ Ostateczny termin oddania pracy:
 1. Jaworowski, Michał - [Centrum gier dydaktycznych](https://bitbucket.org/CoJaTutajRobie/praca-licencjacka)
 1. Korszuń, Kacper - [ Dynamiczne tworzenie 'kalkulatorów' w aplikacji webowej opartej na Node.js i MongoDB](https://bitbucket.org/kacperkorszun/praca-licencjat)
 1. Leśniak, Michał - [Aplikacje webowe w oparciu o framework Lotus](https://github.com/mlesniak91/praca_licencjacka)
-1. Lipińska, Kamila
-1. Lipiński, Michał
+1. Lipińska, Kamila-[Analiza i symulacja przeszukiwania labiryntów na przykładzie algorytmów grafowych BFS, DFS oraz reguły prawej dłoni](https://github.com/wielebny90/labalg)
+1. Lipiński, Michał-[Analiza i symulacja przeszukiwania labiryntów na przykładzie algorytmów grafowych BFS, DFS oraz reguły prawej dłoni](https://github.com/wielebny90/labalg)
 1. Masztarowski, Sebastian - [Node.js - Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch, Przemysław - [Projekt systemu rezerwacji sal kinowych] (https://bitbucket.org/Zhukovo/praca_licencjacka)
 1. Sielachowicz, Paweł - [Centrum gier dydaktycznych](https://bitbucket.org/CoJaTutajRobie/praca-licencjacka)
 1. Szpaderski, Marcin
-1. Szynkaruk, Kamil
+1. Szynkaruk, Kamil-[Analiza i symulacja przeszukiwania labiryntów na przykładzie algorytmów grafowych BFS, DFS oraz reguły prawej dłoni](https://github.com/wielebny90/labalg)
 1. Warężak, Bartłomiej
 1. Zawadzki, Dawid
 1. Zbierowski, Maciej
