@@ -26,7 +26,7 @@ Ostateczny termin oddania pracy:
 1. Korszuń Kacper.
    [Dynamiczne tworzenie kalkulatorów w aplikacji webowej opartej na Node.js i MongoDB](https://bitbucket.org/kacperkorszun/praca-licencjat)
 1. Leśniak Michał.
-   [Aplikacje webowe w oparciu o framework Lotus](https://github.com/mlesniak91/praca_licencjacka)
+   [Framework Lotus - większa elastyczność i testowalność dzięki separacji warstw modelu MVC aplikacji webowej](https://github.com/mlesniak91/praca_licencjacka)
 1. Masztarowski Sebastian.
    [Node.js – Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch, Przemysław.
