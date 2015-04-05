@@ -30,7 +30,7 @@ Ostateczny termin oddania pracy:
 1. Masztarowski Sebastian.
    [Node.js – Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch, Przemysław.
-   [Projekt systemu rezerwacji sal kinowych](https://bitbucket.org/Zhukovo/praca_licencjacka)
+   [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
 
 ----
 
