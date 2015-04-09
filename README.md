@@ -29,7 +29,7 @@ Ostateczny termin oddania pracy:
    [Framework Lotus - większa elastyczność i testowalność dzięki separacji warstw modelu MVC aplikacji webowej](https://github.com/mlesniak91/praca_licencjacka)
 1. Masztarowski Sebastian.
    [Node.js – Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
-1. Paluch, Przemysław.
+1. Paluch Przemysław.
    [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
 
 ----
@@ -41,11 +41,11 @@ Ostateczny termin oddania pracy:
 
 ----
 
-1. Cymiński, Tymoteusz
-1. Szpaderski, Marcin
-1. Warężak, Bartłomiej
-1. Zawadzki, Dawid
-1. Zbierowski, Maciej
+1. Cymiński Tymoteusz
+1. Szpaderski Marcin
+1. Warężak Bartłomiej
+1. Zawadzki Dawid
+1. Zbierowski Maciej
 
 
 <!--
