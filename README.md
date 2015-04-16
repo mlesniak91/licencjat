@@ -20,20 +20,20 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
 
 ## Licencjat 2015
 
-- [ ] [Nasza poradnia językowa](https://github.com/seminarium/web-applications)
+- [x] [Nasza poradnia językowa](https://github.com/seminarium/web-applications#nasza-poradnia-językowa)
 - [x] Prace przygotowujemy w repozytoriach prywatnych (GitHub lub Bitbucket)
   - [Pro Git](http://git-scm.com/book/en/v2) – książka,
   - [Git na GitHub](https://help.github.com)
     * [GitHub Flow](https://help.github.com/articles/github-flow-in-the-browser/)
     * Git commit messages – [tbaggery](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html),
       [good practice](https://wiki.openstack.org/wiki/GitCommitMessages)
-- [ ] Szablon pracy licencjackiej i magisterskiej
+- [x] Szablon pracy licencjackiej i magisterskiej
   - [x] [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr)
   - [x] [Instalacja TeXLive](http://wbzyl.inf.ug.edu.pl/sp/texlive)
   - [x] [Struktura dokumentu LaTeX-owego, Bibliografia](http://wbzyl.inf.ug.edu.pl/sp/latex)
 - [ ] Simon Peyton Jones,
     [How to write a good research paper?](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
-- [ ] [Jak pisać?](http://wbzyl.inf.ug.edu.pl/seminarium/info/jak-pisac)
+- [x] [Jak pisać?](http://wbzyl.inf.ug.edu.pl/seminarium/info/jak-pisac)
 
 Ostateczny termin oddania pracy:
 
