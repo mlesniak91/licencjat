@@ -20,6 +20,7 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
 
 ## Licencjat 2015
 
+- [ ] [Nasza poradnia językowa](https://github.com/seminarium/web-applications)
 - [x] Prace przygotowujemy w repozytoriach prywatnych (GitHub lub Bitbucket)
   - [Pro Git](http://git-scm.com/book/en/v2) – książka,
   - [Git na GitHub](https://help.github.com)
