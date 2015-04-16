@@ -51,7 +51,7 @@ Ostateczny termin oddania pracy:
 1. Paluch Przemysław.
    [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
 1. Zbierowski Maciej.
-   [Contest Creator](https://bitbucket.org/MaciejZbierowski/contestcreator)
+   [Contest Creator Application using Play Framework](https://bitbucket.org/MaciejZbierowski/contestcreator)
 
 ----
 
