@@ -50,7 +50,7 @@ Ostateczny termin oddania pracy:
    [Node.js – Czy warto?](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch Przemysław.
    [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
-
+1. Zbierowski Maciej. [Contest Creator Application using Play Framework](https://bitbucket.org/MaciejZbierowski/contestcreator)
 ----
 
 1. Bigda Piotr, Jaworowski Michał, Sielachowicz Paweł.
@@ -64,7 +64,6 @@ Ostateczny termin oddania pracy:
 1. Szpaderski Marcin
 1. Warężak Bartłomiej
 1. Zawadzki Dawid
-1. Zbierowski Maciej. [Contest Creator Application using Play Framework](https://bitbucket.org/MaciejZbierowski/contestcreator)
 
 
 <!--
