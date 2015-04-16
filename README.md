@@ -64,7 +64,7 @@ Ostateczny termin oddania pracy:
 1. Szpaderski Marcin
 1. Warężak Bartłomiej
 1. Zawadzki Dawid
-1. Zbierowski Maciej
+1. Zbierowski Maciej. [Contest Creator Application using Play Framework](https://bitbucket.org/MaciejZbierowski/contestcreator)
 
 
 <!--
