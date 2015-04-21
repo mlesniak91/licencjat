@@ -47,7 +47,7 @@ Ostateczny termin oddania pracy:
 1. Leśniak Michał.
    [Framework Lotus - większa elastyczność i testowalność dzięki separacji warstw modelu MVC aplikacji webowej](https://github.com/mlesniak91/praca_licencjacka)
 1. Masztarowski Sebastian.
-   [Aplikacja webowa w oparciu o Sail.js](https://bitbucket.org/typowyseba/praca-dyplomowa)
+   [Projekt aplikacji webowej dla serwisu komórkowego.](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch Przemysław.
    [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
 1. Zbierowski Maciej.
