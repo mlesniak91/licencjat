@@ -2,6 +2,26 @@
 > no matter how weedy and insignificant it may seem to you.<br>
 > [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
+**Ważne:** Proszę zapoznać się
+[z zasadami pisania prac licencjackich](https://inf.ug.edu.pl/informacja-dla-studentow-iii-roku-2014).
+
+Studenci, którzy chcą przedstawić wspólną pracę powinni złożyć w dziekanacie
+podanie (jedno na zespół) zawierające:
+
+* tytuł pracy
+* nazwisko promotora
+* skład zespołu
+* określenie indywidualnego wkładu w pracę każdego z członków zespołu
+  (nie chodzi tutaj o określenie procentowe)
+* podanie powinno być poświadczone przez promotora
+
+Informacja o wkładzie każdego z autorów powinna się też znaleźć
+we wstępie/wprowadzeniu do pracy.
+
+Praca powinna być złożona w tylu egzemplarzach, ilu jest współautorów
+Do pracy powinna być dołączona płytka z plikiem źródłowym
+oraz plikiem PDF ze złożoną wersją pracy.
+
 **Conveying the idea**:
 
 1. Here is a problem.
