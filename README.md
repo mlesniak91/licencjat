@@ -18,7 +18,7 @@ podanie (jedno na zespół) zawierające:
 Informacja o wkładzie każdego z autorów powinna się też znaleźć
 we wstępie/wprowadzeniu do pracy.
 
-Praca powinna być złożona w tylu egzemplarzach, ilu jest współautorów
+Praca powinna być złożona w tylu egzemplarzach, ilu jest współautorów.
 Do pracy powinna być dołączona płytka z plikiem źródłowym
 oraz plikiem PDF ze złożoną wersją pracy.
 
