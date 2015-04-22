@@ -22,21 +22,6 @@ Praca powinna być złożona w tylu egzemplarzach, ilu jest współautorów
 Do pracy powinna być dołączona płytka z plikiem źródłowym
 oraz plikiem PDF ze złożoną wersją pracy.
 
-**Conveying the idea**:
-
-1. Here is a problem.
-1. It’s an interesting and unsolved problem.
-1. ***Here is my idea***.
-1. My idea works: details, data.
-1. Here’s how my idea compares to other people’s approaches.
-
-or [Kent Beck](http://www.threeriversinstitute.org/blog/):
-
-1. State the problem.
-1. Say why it’s an interesting problem.
-1. Say what your solution achieves.
-1. Say what follows from your solution.
-
 
 ## Licencjat 2015
 
@@ -51,7 +36,7 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
   - [x] [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr)
   - [x] [Instalacja TeXLive](http://wbzyl.inf.ug.edu.pl/sp/texlive)
   - [x] [Struktura dokumentu LaTeX-owego, Bibliografia](http://wbzyl.inf.ug.edu.pl/sp/latex)
-- [ ] Simon Peyton Jones,
+- [x] Simon Peyton Jones,
     [How to write a good research paper?](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 - [x] [Jak pisać?](http://wbzyl.inf.ug.edu.pl/seminarium/info/jak-pisac)
 
@@ -87,6 +72,23 @@ Ostateczny termin oddania pracy:
 1. Warężak Bartłomiej
 1. Zawadzki Dawid
 
+
+## Co koniecznie należy napisać w pracy?
+
+Simon Peyton Jones:
+
+1. Here is a problem.
+1. It’s an interesting/unsolved problem.
+1. ***Here is my idea***.
+1. My idea works: details, data.
+1. Here’s how my idea compares to other people’s approaches.
+
+[Kent Beck](http://www.threeriversinstitute.org/blog/):
+
+1. State the problem.
+1. Say why it’s an interesting problem.
+1. Say what your solution achieves.
+1. Say what follows from your solution.
 
 <!--
 ### Frameworki, bazy danych, …
