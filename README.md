@@ -2,8 +2,9 @@
 > no matter how weedy and insignificant it may seem to you.<br>
 > [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
-**Ważne:** Proszę zapoznać się
-[z zasadami pisania prac licencjackich](https://inf.ug.edu.pl/informacja-dla-studentow-iii-roku-2014).
+### [22.04.2015] Ważne!
+
+Proszę zapoznać się [z zasadami pisania prac licencjackich](https://inf.ug.edu.pl/informacja-dla-studentow-iii-roku-2014).
 
 Studenci, którzy chcą przedstawić wspólną pracę powinni złożyć w dziekanacie
 podanie (jedno na zespół) zawierające:
