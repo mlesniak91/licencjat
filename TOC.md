@@ -7,7 +7,7 @@
    - Możliwości zastosowania praktycznego
 1. Projekt i analiza [*obowiązkowo*]
    - Aktorzy i Przypadki użycia
-     [*obowiązkowo, jakie są podstawowe funkcjonalności*],
+     \[*obowiązkowo, jakie są podstawowe funkcjonalności*\],
      wymagania funkcjonalne i niefunkcjonalne [*obowiązkowo*]
    - Diagram klas [*obowiązkowo*]
    - Diagram modelu danych [*obowiązkowo, dla projektów korzystających z baz danych relacyjnych,
