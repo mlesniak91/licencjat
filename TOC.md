@@ -6,11 +6,11 @@
    - Porównanie dostępnych rozwiązań
    - Możliwości zastosowania praktycznego
 1. Projekt i analiza [*obowiązkowo*]
-   - Aktorzy i Przypadki użycia
+   - Aktorzy i przypadki użycia
      \[*obowiązkowo, jakie są podstawowe funkcjonalności*\],
      wymagania funkcjonalne i niefunkcjonalne [*obowiązkowo*]
    - Diagram klas [*obowiązkowo*]
-   - Diagram modelu danych [*obowiązkowo, dla projektów korzystających z baz danych relacyjnych,
+   - Diagram modelu danych [*obowiązkowo, dla projektów korzystających z baz danych relacyjnych (ERD),
      dla pozostałych opis w jaki sposób dane będą zorganizowane,
      przechowywane, przykładowe dokumenty dla baz dokumentowych itp.*]
    - Projekt interfejsu użytkownika [*mogą być makiety, szkice lub gotowe projekty grafik*]
