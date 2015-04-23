@@ -4,7 +4,7 @@
 
 #### [22.04.2015] Ważne!
 
-Proszę zapoznać się [z zasadami pisania prac licencjackich](https://inf.ug.edu.pl/informacja-dla-studentow-iii-roku-2014).
+Proszę zapoznać się [z zasadami pisania prac licencjackich](https://inf.ug.edu.pl/informacja-dla-studentow-iii-roku-2014) oraz z [przykładowym spisem treści](TOC.md).
 
 Studenci, którzy chcą przedstawić wspólną pracę powinni złożyć w dziekanacie
 podanie (jedno na zespół) zawierające:
