@@ -49,7 +49,7 @@ Ostateczny termin oddania pracy:
 ### Lista
 
 1. Korszuń Kacper.
-   [Dynamiczne tworzenie kalkulatorów w aplikacji webowej opartej na Node.js i MongoDB](https://bitbucket.org/kacperkorszun/praca-licencjat)
+   [Dynamiczne dosyłanie wiadomości w aplikacji mikroblog](https://bitbucket.org/kacperkorszun/praca-licencjat)
 1. Leśniak Michał.
    [Framework Lotus - większa elastyczność i testowalność dzięki separacji warstw modelu MVC aplikacji webowej](https://github.com/mlesniak91/praca_licencjacka)
 1. Masztarowski Sebastian.
