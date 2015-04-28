@@ -56,6 +56,8 @@ Ostateczny termin oddania pracy:
    [Projekt aplikacji webowej dla serwisu komórkowego.](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch Przemysław.
    [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
+1. Zawadzki Dawid.
+   [Serwis domków letniskowych](https://bitbucket.org/jason7/praca_licencjacka)
 1. Zbierowski Maciej.
    [Contest Creator Application using Play Framework](https://bitbucket.org/MaciejZbierowski/contestcreator)
 
@@ -71,7 +73,7 @@ Ostateczny termin oddania pracy:
 1. Cymiński Tymoteusz
 1. Szpaderski Marcin
 1. Warężak Bartłomiej
-1. Zawadzki Dawid
+
 
 
 ## Co koniecznie należy napisać w pracy?
