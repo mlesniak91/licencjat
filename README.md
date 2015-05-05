@@ -21,6 +21,7 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
 ## Licencjat 2015
 
 - [x] [Nasza poradnia językowa](https://github.com/seminarium/web-applications#nasza-poradnia-językowa)
+  - [ ] [Writing paragraphs that make sense—the topic and the stress position](http://serialmentor.com/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position)
 - [x] Prace przygotowujemy w repozytoriach prywatnych (GitHub lub Bitbucket)
   - [Pro Git](http://git-scm.com/book/en/v2) – książka,
   - [Git na GitHub](https://help.github.com)
