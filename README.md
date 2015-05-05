@@ -2,20 +2,26 @@
 > no matter how weedy and insignificant it may seem to you.<br>
 > [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
-**Conveying the idea**:
+#### [22.04.2015] Ważne!
 
-1. Here is a problem.
-1. It’s an interesting and unsolved problem.
-1. ***Here is my idea***.
-1. My idea works: details, data.
-1. Here’s how my idea compares to other people’s approaches.
+Proszę zapoznać się [z zasadami pisania prac licencjackich](https://inf.ug.edu.pl/informacja-dla-studentow-iii-roku-2014) oraz z [przykładowym spisem treści](TOC.md).
 
-or [Kent Beck](http://www.threeriversinstitute.org/blog/):
+Studenci, którzy chcą przedstawić wspólną pracę powinni złożyć w dziekanacie
+podanie (jedno na zespół) zawierające:
 
-1. State the problem.
-1. Say why it’s an interesting problem.
-1. Say what your solution achieves.
-1. Say what follows from your solution.
+* tytuł pracy
+* nazwisko promotora
+* skład zespołu
+* określenie indywidualnego wkładu w pracę każdego z członków zespołu
+  (nie chodzi tutaj o określenie procentowe)
+* podanie powinno być poświadczone przez promotora
+
+Informacja o wkładzie każdego z autorów powinna się też znaleźć
+we wstępie/wprowadzeniu do pracy.
+
+Praca powinna być złożona w tylu egzemplarzach, ilu jest współautorów.
+Do pracy powinna być dołączona płytka z plikiem źródłowym
+oraz plikiem PDF ze złożoną wersją pracy.
 
 
 ## Licencjat 2015
@@ -32,7 +38,7 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
   - [x] [xelatex-mgr](https://github.com/wbzyl/xelatex-mgr)
   - [x] [Instalacja TeXLive](http://wbzyl.inf.ug.edu.pl/sp/texlive)
   - [x] [Struktura dokumentu LaTeX-owego, Bibliografia](http://wbzyl.inf.ug.edu.pl/sp/latex)
-- [ ] Simon Peyton Jones,
+- [x] Simon Peyton Jones,
     [How to write a good research paper?](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 - [x] [Jak pisać?](http://wbzyl.inf.ug.edu.pl/seminarium/info/jak-pisac)
 
@@ -44,13 +50,15 @@ Ostateczny termin oddania pracy:
 ### Lista
 
 1. Korszuń Kacper.
-   [Dynamiczne tworzenie kalkulatorów w aplikacji webowej opartej na Node.js i MongoDB](https://bitbucket.org/kacperkorszun/praca-licencjat)
+   [Dynamiczne dosyłanie wiadomości w aplikacji mikroblog](https://bitbucket.org/kacperkorszun/praca-licencjat)
 1. Leśniak Michał.
    [Framework Lotus - większa elastyczność i testowalność dzięki separacji warstw modelu MVC aplikacji webowej](https://github.com/mlesniak91/praca_licencjacka)
 1. Masztarowski Sebastian.
-   [Aplikacja webowa w oparciu o Sail.js](https://bitbucket.org/typowyseba/praca-dyplomowa)
+   [Projekt aplikacji webowej dla serwisu komórkowego.](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch Przemysław.
    [Projekt interfejsu użytkownika dla systemu rezerwacji](https://bitbucket.org/Zhukovo/praca_licencjacka)
+1. Zawadzki Dawid.
+   [Serwis domków letniskowych](https://bitbucket.org/jason7/praca_licencjacka)
 1. Zbierowski Maciej.
    [Contest Creator Application using Play Framework](https://bitbucket.org/MaciejZbierowski/contestcreator)
 
@@ -66,8 +74,25 @@ Ostateczny termin oddania pracy:
 1. Cymiński Tymoteusz
 1. Szpaderski Marcin
 1. Warężak Bartłomiej
-1. Zawadzki Dawid
 
+
+
+## Co koniecznie należy napisać w pracy?
+
+Simon Peyton Jones:
+
+1. Here is a problem.
+1. It’s an interesting/unsolved problem.
+1. ***Here is my idea***.
+1. My idea works: details, data.
+1. Here’s how my idea compares to other people’s approaches.
+
+[Kent Beck](http://www.threeriversinstitute.org/blog/):
+
+1. State the problem.
+1. Say why it’s an interesting problem.
+1. Say what your solution achieves.
+1. Say what follows from your solution.
 
 <!--
 ### Frameworki, bazy danych, …
