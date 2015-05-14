@@ -52,7 +52,7 @@ Ostateczny termin oddania pracy:
 1. Korszuń Kacper.
    [Dynamiczne dosyłanie wiadomości w aplikacji mikroblog](https://bitbucket.org/kacperkorszun/praca-licencjat)
 1. Leśniak Michał.
-   [Framework Lotus - większa elastyczność i testowalność dzięki separacji warstw modelu MVC aplikacji webowej](https://github.com/mlesniak91/praca_licencjacka)
+   [Wykorzystanie mechanizmu powielania we wzorcu projektowym MVC](https://github.com/mlesniak91/praca_licencjacka)
 1. Masztarowski Sebastian.
    [Projekt aplikacji webowej dla serwisu komórkowego.](https://bitbucket.org/typowyseba/praca-dyplomowa)
 1. Paluch Przemysław.
